@@ -3,6 +3,7 @@
       "name": "Coin1",
       "symbol": "C1",
       "chain": "TRX",
+      "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/busd.png",
       "trx_address": "TDqSquXBgUCLYvYC4XZgrprLK589dkhSCf"
     },
     {
@@ -11,4 +12,4 @@
       "chain": "TRX",
       "trx_address": "TFRWeamd7Nhh7rHWBqnWGh4MmR44yVdCW4"
     }
-  ]
+]
