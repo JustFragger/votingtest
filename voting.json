@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Coin1",
+      "symbol": "C1",
+      "chain": "TRX",
+      "trx_address": "TDqSquXBgUCLYvYC4XZgrprLK589dkhSCf"
+    },
+    {
+      "name": "Coin2",
+      "symbol": "C2",
+      "chain": "TRX",
+      "trx_address": "TFRWeamd7Nhh7rHWBqnWGh4MmR44yVdCW4"
+    }
+  ]
